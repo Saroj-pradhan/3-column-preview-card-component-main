@@ -53,29 +53,32 @@ color: hsl(0, 0%, 95%);
 @media(min-width:768px) and (max-width:1440px){
     
     body{
-       width: 80%;
-        
+       max-width: 100%;
+       margin-top: 100px;
+        max-height: fit-content;
       
     }
     .main-container{
         
      display: flex;
      
+     margin-left:177px ;
+     margin-right:170px ;
+    
        
        
     }
     .box1{
        
-    width: 420px;
+    
       
     }
     .box2{
        
        
-    width: 420px;
+   
     }
     .box3{
-        width: 420px;
-      
+       
        }
 }
