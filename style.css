@@ -5,12 +5,6 @@ body{
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-.main-container{
-   
-    
-}
-
-
 .container{
     background-color: hsl(0, 0%, 95%);
 color: hsl(0, 0%, 95%);
@@ -55,30 +49,13 @@ color: hsl(0, 0%, 95%);
     body{
        max-width: 100%;
        margin-top: 100px;
-        max-height: fit-content;
+       max-height: fit-content;
       
     }
     .main-container{
-        
      display: flex;
-     
      margin-left:177px ;
-     margin-right:170px ;
-    
-       
-       
+     margin-right:170px ;  
     }
-    .box1{
-       
-    
-      
-    }
-    .box2{
-       
-       
    
-    }
-    .box3{
-       
-       }
 }
