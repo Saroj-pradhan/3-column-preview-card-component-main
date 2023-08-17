@@ -48,14 +48,13 @@ color: hsl(0, 0%, 95%);
     
     body{
        max-width: 100%;
-       margin-top: 100px;
+       margin: 10% 20%;
        max-height: fit-content;
       
     }
     .main-container{
      display: flex;
-     margin-left:177px ;
-     margin-right:170px ;  
+       
     }
    
 }
